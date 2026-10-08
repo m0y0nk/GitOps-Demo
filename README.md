@@ -118,7 +118,9 @@ Manifests: [`app/deployment.yaml`](app/deployment.yaml) and
 ### Monitoring and service health
 
 ![Prometheus and Grafana containers started](image-1.png)
+![alt text](image-11.png)
 ![Prometheus readiness endpoint](image-8.png)
+![alt text](image-12.png)
 ![Grafana health endpoint](image-9.png)
 
 ### Kubernetes and GitOps
